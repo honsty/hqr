@@ -2,7 +2,7 @@
 // Use of this source code is governed by a BSD-style
 // license that can be found in the LICENSE file.
 
-package qr
+package hqr
 
 // PNG writer for QR codes.
 

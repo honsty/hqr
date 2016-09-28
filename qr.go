@@ -5,7 +5,7 @@
 /*
 Package qr encodes QR codes.
 */
-package qr
+package hqr
 
 import (
 	"errors"
