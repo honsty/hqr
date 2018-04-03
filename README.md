@@ -7,7 +7,7 @@
 ```
 package main
 
-// dev1
+// dev2
 import (
 	"github.com/honsty/hqr"
 
